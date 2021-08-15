@@ -1,0 +1,15 @@
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\obj\Debug\net5.0\supermercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\obj\Debug\net5.0\supermercado.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\obj\Debug\net5.0\supermercado.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\obj\Debug\net5.0\supermercado.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\bin\Debug\net5.0\supermercado.exe
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\bin\Debug\net5.0\supermercado.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\bin\Debug\net5.0\supermercado.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\bin\Debug\net5.0\supermercado.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\bin\Debug\net5.0\supermercado.dll
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\bin\Debug\net5.0\ref\supermercado.dll
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\bin\Debug\net5.0\supermercado.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\obj\Debug\net5.0\supermercado.dll
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\obj\Debug\net5.0\ref\supermercado.dll
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\obj\Debug\net5.0\supermercado.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\supermercado\supermercado\obj\Debug\net5.0\supermercado.genruntimeconfig.cache

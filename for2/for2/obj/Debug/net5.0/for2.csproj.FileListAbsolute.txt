@@ -1,0 +1,15 @@
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\bin\Debug\net5.0\for2.exe
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\bin\Debug\net5.0\for2.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\bin\Debug\net5.0\for2.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\bin\Debug\net5.0\for2.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\bin\Debug\net5.0\for2.dll
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\bin\Debug\net5.0\ref\for2.dll
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\bin\Debug\net5.0\for2.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\obj\Debug\net5.0\for2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\obj\Debug\net5.0\for2.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\obj\Debug\net5.0\for2.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\obj\Debug\net5.0\for2.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\obj\Debug\net5.0\for2.dll
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\obj\Debug\net5.0\ref\for2.dll
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\obj\Debug\net5.0\for2.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\for2\for2\obj\Debug\net5.0\for2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\bin\Debug\net5.0\condicionalesAnidado4.exe
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\bin\Debug\net5.0\condicionalesAnidado4.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\bin\Debug\net5.0\condicionalesAnidado4.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\bin\Debug\net5.0\condicionalesAnidado4.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\bin\Debug\net5.0\condicionalesAnidado4.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\bin\Debug\net5.0\ref\condicionalesAnidado4.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\bin\Debug\net5.0\condicionalesAnidado4.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\obj\Debug\net5.0\condicionalesAnidado4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\obj\Debug\net5.0\condicionalesAnidado4.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\obj\Debug\net5.0\condicionalesAnidado4.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\obj\Debug\net5.0\condicionalesAnidado4.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\obj\Debug\net5.0\condicionalesAnidado4.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\obj\Debug\net5.0\ref\condicionalesAnidado4.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\obj\Debug\net5.0\condicionalesAnidado4.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado4\condicionalesAnidado4\obj\Debug\net5.0\condicionalesAnidado4.genruntimeconfig.cache

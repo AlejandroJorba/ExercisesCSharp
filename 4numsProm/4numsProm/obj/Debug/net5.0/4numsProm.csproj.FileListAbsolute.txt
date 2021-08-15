@@ -1,0 +1,15 @@
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\bin\Debug\net5.0\4numsProm.exe
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\bin\Debug\net5.0\4numsProm.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\bin\Debug\net5.0\4numsProm.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\bin\Debug\net5.0\4numsProm.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\bin\Debug\net5.0\4numsProm.dll
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\bin\Debug\net5.0\ref\4numsProm.dll
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\bin\Debug\net5.0\4numsProm.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\obj\Debug\net5.0\4numsProm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\obj\Debug\net5.0\4numsProm.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\obj\Debug\net5.0\4numsProm.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\obj\Debug\net5.0\4numsProm.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\obj\Debug\net5.0\4numsProm.dll
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\obj\Debug\net5.0\ref\4numsProm.dll
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\obj\Debug\net5.0\4numsProm.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\4numsProm\4numsProm\obj\Debug\net5.0\4numsProm.genruntimeconfig.cache

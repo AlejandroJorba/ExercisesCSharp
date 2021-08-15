@@ -1,0 +1,15 @@
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\bin\Debug\net5.0\perimCuadrado.exe
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\bin\Debug\net5.0\perimCuadrado.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\bin\Debug\net5.0\perimCuadrado.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\bin\Debug\net5.0\perimCuadrado.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\bin\Debug\net5.0\perimCuadrado.dll
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\bin\Debug\net5.0\ref\perimCuadrado.dll
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\bin\Debug\net5.0\perimCuadrado.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\obj\Debug\net5.0\perimCuadrado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\obj\Debug\net5.0\perimCuadrado.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\obj\Debug\net5.0\perimCuadrado.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\obj\Debug\net5.0\perimCuadrado.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\obj\Debug\net5.0\perimCuadrado.dll
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\obj\Debug\net5.0\ref\perimCuadrado.dll
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\obj\Debug\net5.0\perimCuadrado.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\perimCuadrado\perimCuadrado\obj\Debug\net5.0\perimCuadrado.genruntimeconfig.cache

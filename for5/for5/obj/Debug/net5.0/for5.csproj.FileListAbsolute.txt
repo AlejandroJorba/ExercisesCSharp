@@ -1,0 +1,16 @@
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\bin\Debug\net5.0\for5.exe
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\bin\Debug\net5.0\for5.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\bin\Debug\net5.0\for5.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\bin\Debug\net5.0\for5.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\bin\Debug\net5.0\for5.dll
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\bin\Debug\net5.0\ref\for5.dll
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\bin\Debug\net5.0\for5.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\obj\Debug\net5.0\for5.csproj.AssemblyReference.cache
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\obj\Debug\net5.0\for5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\obj\Debug\net5.0\for5.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\obj\Debug\net5.0\for5.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\obj\Debug\net5.0\for5.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\obj\Debug\net5.0\for5.dll
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\obj\Debug\net5.0\ref\for5.dll
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\obj\Debug\net5.0\for5.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\for5\for5\obj\Debug\net5.0\for5.genruntimeconfig.cache

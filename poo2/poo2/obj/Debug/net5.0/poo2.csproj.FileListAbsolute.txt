@@ -1,0 +1,15 @@
+C:\Users\Alejandro\source\repos\poo2\poo2\bin\Debug\net5.0\poo2.exe
+C:\Users\Alejandro\source\repos\poo2\poo2\bin\Debug\net5.0\poo2.deps.json
+C:\Users\Alejandro\source\repos\poo2\poo2\bin\Debug\net5.0\poo2.runtimeconfig.json
+C:\Users\Alejandro\source\repos\poo2\poo2\bin\Debug\net5.0\poo2.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\poo2\poo2\bin\Debug\net5.0\poo2.dll
+C:\Users\Alejandro\source\repos\poo2\poo2\bin\Debug\net5.0\ref\poo2.dll
+C:\Users\Alejandro\source\repos\poo2\poo2\bin\Debug\net5.0\poo2.pdb
+C:\Users\Alejandro\source\repos\poo2\poo2\obj\Debug\net5.0\poo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\poo2\poo2\obj\Debug\net5.0\poo2.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\poo2\poo2\obj\Debug\net5.0\poo2.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\poo2\poo2\obj\Debug\net5.0\poo2.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\poo2\poo2\obj\Debug\net5.0\poo2.dll
+C:\Users\Alejandro\source\repos\poo2\poo2\obj\Debug\net5.0\ref\poo2.dll
+C:\Users\Alejandro\source\repos\poo2\poo2\obj\Debug\net5.0\poo2.pdb
+C:\Users\Alejandro\source\repos\poo2\poo2\obj\Debug\net5.0\poo2.genruntimeconfig.cache

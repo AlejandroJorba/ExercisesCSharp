@@ -1,0 +1,16 @@
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\bin\Debug\net5.0\doWhile1.exe
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\bin\Debug\net5.0\doWhile1.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\bin\Debug\net5.0\doWhile1.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\bin\Debug\net5.0\doWhile1.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\bin\Debug\net5.0\doWhile1.dll
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\bin\Debug\net5.0\ref\doWhile1.dll
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\bin\Debug\net5.0\doWhile1.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\obj\Debug\net5.0\doWhile1.csproj.AssemblyReference.cache
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\obj\Debug\net5.0\doWhile1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\obj\Debug\net5.0\doWhile1.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\obj\Debug\net5.0\doWhile1.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\obj\Debug\net5.0\doWhile1.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\obj\Debug\net5.0\doWhile1.dll
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\obj\Debug\net5.0\ref\doWhile1.dll
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\obj\Debug\net5.0\doWhile1.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\doWhile1\doWhile1\obj\Debug\net5.0\doWhile1.genruntimeconfig.cache

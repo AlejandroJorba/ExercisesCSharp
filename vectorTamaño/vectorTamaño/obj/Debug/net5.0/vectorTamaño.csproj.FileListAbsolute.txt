@@ -1,0 +1,16 @@
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\obj\Debug\net5.0\vectorTamaño.csproj.AssemblyReference.cache
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\obj\Debug\net5.0\vectorTamaño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\obj\Debug\net5.0\vectorTamaño.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\obj\Debug\net5.0\vectorTamaño.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\obj\Debug\net5.0\vectorTamaño.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\bin\Debug\net5.0\vectorTamaño.exe
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\bin\Debug\net5.0\vectorTamaño.deps.json
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\bin\Debug\net5.0\vectorTamaño.runtimeconfig.json
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\bin\Debug\net5.0\vectorTamaño.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\bin\Debug\net5.0\vectorTamaño.dll
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\bin\Debug\net5.0\ref\vectorTamaño.dll
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\bin\Debug\net5.0\vectorTamaño.pdb
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\obj\Debug\net5.0\vectorTamaño.dll
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\obj\Debug\net5.0\ref\vectorTamaño.dll
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\obj\Debug\net5.0\vectorTamaño.pdb
+C:\Users\Alejandro\source\repos\vectorTamaño\vectorTamaño\obj\Debug\net5.0\vectorTamaño.genruntimeconfig.cache

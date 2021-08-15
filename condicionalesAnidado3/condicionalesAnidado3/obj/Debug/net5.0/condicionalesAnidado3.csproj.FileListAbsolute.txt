@@ -1,0 +1,16 @@
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\bin\Debug\net5.0\condicionalesAnidado3.exe
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\bin\Debug\net5.0\condicionalesAnidado3.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\bin\Debug\net5.0\condicionalesAnidado3.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\bin\Debug\net5.0\condicionalesAnidado3.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\bin\Debug\net5.0\condicionalesAnidado3.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\bin\Debug\net5.0\ref\condicionalesAnidado3.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\bin\Debug\net5.0\condicionalesAnidado3.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\obj\Debug\net5.0\condicionalesAnidado3.csproj.AssemblyReference.cache
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\obj\Debug\net5.0\condicionalesAnidado3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\obj\Debug\net5.0\condicionalesAnidado3.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\obj\Debug\net5.0\condicionalesAnidado3.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\obj\Debug\net5.0\condicionalesAnidado3.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\obj\Debug\net5.0\condicionalesAnidado3.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\obj\Debug\net5.0\ref\condicionalesAnidado3.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\obj\Debug\net5.0\condicionalesAnidado3.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalesAnidado3\condicionalesAnidado3\obj\Debug\net5.0\condicionalesAnidado3.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\bin\Debug\net5.0\vectorParaleloOrdenar.exe
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\bin\Debug\net5.0\vectorParaleloOrdenar.deps.json
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\bin\Debug\net5.0\vectorParaleloOrdenar.runtimeconfig.json
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\bin\Debug\net5.0\vectorParaleloOrdenar.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\bin\Debug\net5.0\vectorParaleloOrdenar.dll
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\bin\Debug\net5.0\ref\vectorParaleloOrdenar.dll
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\bin\Debug\net5.0\vectorParaleloOrdenar.pdb
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\obj\Debug\net5.0\vectorParaleloOrdenar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\obj\Debug\net5.0\vectorParaleloOrdenar.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\obj\Debug\net5.0\vectorParaleloOrdenar.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\obj\Debug\net5.0\vectorParaleloOrdenar.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\obj\Debug\net5.0\vectorParaleloOrdenar.dll
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\obj\Debug\net5.0\ref\vectorParaleloOrdenar.dll
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\obj\Debug\net5.0\vectorParaleloOrdenar.pdb
+C:\Users\Alejandro\source\repos\vectorParaleloOrdenar\vectorParaleloOrdenar\obj\Debug\net5.0\vectorParaleloOrdenar.genruntimeconfig.cache

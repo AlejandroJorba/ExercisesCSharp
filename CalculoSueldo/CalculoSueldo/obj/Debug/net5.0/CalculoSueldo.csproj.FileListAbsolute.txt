@@ -1,0 +1,16 @@
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\bin\Debug\net5.0\CalculoSueldo.exe
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\bin\Debug\net5.0\CalculoSueldo.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\bin\Debug\net5.0\CalculoSueldo.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\bin\Debug\net5.0\CalculoSueldo.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\bin\Debug\net5.0\CalculoSueldo.dll
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\bin\Debug\net5.0\ref\CalculoSueldo.dll
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\bin\Debug\net5.0\CalculoSueldo.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\obj\Debug\net5.0\CalculoSueldo.csproj.AssemblyReference.cache
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\obj\Debug\net5.0\CalculoSueldo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\obj\Debug\net5.0\CalculoSueldo.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\obj\Debug\net5.0\CalculoSueldo.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\obj\Debug\net5.0\CalculoSueldo.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\obj\Debug\net5.0\CalculoSueldo.dll
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\obj\Debug\net5.0\ref\CalculoSueldo.dll
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\obj\Debug\net5.0\CalculoSueldo.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\CalculoSueldo\CalculoSueldo\obj\Debug\net5.0\CalculoSueldo.genruntimeconfig.cache

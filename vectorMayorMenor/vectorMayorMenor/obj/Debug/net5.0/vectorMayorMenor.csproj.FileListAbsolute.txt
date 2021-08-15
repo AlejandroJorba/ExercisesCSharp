@@ -1,0 +1,15 @@
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\bin\Debug\net5.0\vectorMayorMenor.exe
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\bin\Debug\net5.0\vectorMayorMenor.deps.json
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\bin\Debug\net5.0\vectorMayorMenor.runtimeconfig.json
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\bin\Debug\net5.0\vectorMayorMenor.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\bin\Debug\net5.0\vectorMayorMenor.dll
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\bin\Debug\net5.0\ref\vectorMayorMenor.dll
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\bin\Debug\net5.0\vectorMayorMenor.pdb
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\obj\Debug\net5.0\vectorMayorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\obj\Debug\net5.0\vectorMayorMenor.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\obj\Debug\net5.0\vectorMayorMenor.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\obj\Debug\net5.0\vectorMayorMenor.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\obj\Debug\net5.0\vectorMayorMenor.dll
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\obj\Debug\net5.0\ref\vectorMayorMenor.dll
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\obj\Debug\net5.0\vectorMayorMenor.pdb
+C:\Users\Alejandro\source\repos\vectorMayorMenor\vectorMayorMenor\obj\Debug\net5.0\vectorMayorMenor.genruntimeconfig.cache

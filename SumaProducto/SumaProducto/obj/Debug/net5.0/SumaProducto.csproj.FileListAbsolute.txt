@@ -1,0 +1,15 @@
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\bin\Debug\net5.0\SumaProducto.exe
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\bin\Debug\net5.0\SumaProducto.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\bin\Debug\net5.0\SumaProducto.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\bin\Debug\net5.0\SumaProducto.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\bin\Debug\net5.0\SumaProducto.dll
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\bin\Debug\net5.0\ref\SumaProducto.dll
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\bin\Debug\net5.0\SumaProducto.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\obj\Debug\net5.0\SumaProducto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\obj\Debug\net5.0\SumaProducto.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\obj\Debug\net5.0\SumaProducto.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\obj\Debug\net5.0\SumaProducto.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\obj\Debug\net5.0\SumaProducto.dll
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\obj\Debug\net5.0\ref\SumaProducto.dll
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\obj\Debug\net5.0\SumaProducto.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\SumaProducto\SumaProducto\obj\Debug\net5.0\SumaProducto.genruntimeconfig.cache

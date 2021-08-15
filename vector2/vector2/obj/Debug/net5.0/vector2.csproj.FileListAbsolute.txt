@@ -1,0 +1,15 @@
+C:\Users\Alejandro\source\repos\vector2\vector2\bin\Debug\net5.0\vector2.exe
+C:\Users\Alejandro\source\repos\vector2\vector2\bin\Debug\net5.0\vector2.deps.json
+C:\Users\Alejandro\source\repos\vector2\vector2\bin\Debug\net5.0\vector2.runtimeconfig.json
+C:\Users\Alejandro\source\repos\vector2\vector2\bin\Debug\net5.0\vector2.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\vector2\vector2\bin\Debug\net5.0\vector2.dll
+C:\Users\Alejandro\source\repos\vector2\vector2\bin\Debug\net5.0\ref\vector2.dll
+C:\Users\Alejandro\source\repos\vector2\vector2\bin\Debug\net5.0\vector2.pdb
+C:\Users\Alejandro\source\repos\vector2\vector2\obj\Debug\net5.0\vector2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\vector2\vector2\obj\Debug\net5.0\vector2.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\vector2\vector2\obj\Debug\net5.0\vector2.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\vector2\vector2\obj\Debug\net5.0\vector2.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\vector2\vector2\obj\Debug\net5.0\vector2.dll
+C:\Users\Alejandro\source\repos\vector2\vector2\obj\Debug\net5.0\ref\vector2.dll
+C:\Users\Alejandro\source\repos\vector2\vector2\obj\Debug\net5.0\vector2.pdb
+C:\Users\Alejandro\source\repos\vector2\vector2\obj\Debug\net5.0\vector2.genruntimeconfig.cache

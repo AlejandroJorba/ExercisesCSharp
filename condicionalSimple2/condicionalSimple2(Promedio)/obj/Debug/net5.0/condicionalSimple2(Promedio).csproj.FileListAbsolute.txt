@@ -1,0 +1,15 @@
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\bin\Debug\net5.0\condicionalSimple2(Promedio).exe
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\bin\Debug\net5.0\condicionalSimple2(Promedio).deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\bin\Debug\net5.0\condicionalSimple2(Promedio).runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\bin\Debug\net5.0\condicionalSimple2(Promedio).runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\bin\Debug\net5.0\condicionalSimple2(Promedio).dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\bin\Debug\net5.0\ref\condicionalSimple2(Promedio).dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\bin\Debug\net5.0\condicionalSimple2(Promedio).pdb
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\obj\Debug\net5.0\condicionalSimple2(Promedio).GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\obj\Debug\net5.0\condicionalSimple2(Promedio).AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\obj\Debug\net5.0\condicionalSimple2(Promedio).AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\obj\Debug\net5.0\condicionalSimple2(Promedio).csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\obj\Debug\net5.0\condicionalSimple2(Promedio).dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\obj\Debug\net5.0\ref\condicionalSimple2(Promedio).dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\obj\Debug\net5.0\condicionalSimple2(Promedio).pdb
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple2(Promedio)\condicionalSimple2(Promedio)\obj\Debug\net5.0\condicionalSimple2(Promedio).genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Alejandro\source\repos\vector4\vector4\bin\Debug\net5.0\vector4.exe
+C:\Users\Alejandro\source\repos\vector4\vector4\bin\Debug\net5.0\vector4.deps.json
+C:\Users\Alejandro\source\repos\vector4\vector4\bin\Debug\net5.0\vector4.runtimeconfig.json
+C:\Users\Alejandro\source\repos\vector4\vector4\bin\Debug\net5.0\vector4.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\vector4\vector4\bin\Debug\net5.0\vector4.dll
+C:\Users\Alejandro\source\repos\vector4\vector4\bin\Debug\net5.0\ref\vector4.dll
+C:\Users\Alejandro\source\repos\vector4\vector4\bin\Debug\net5.0\vector4.pdb
+C:\Users\Alejandro\source\repos\vector4\vector4\obj\Debug\net5.0\vector4.csproj.AssemblyReference.cache
+C:\Users\Alejandro\source\repos\vector4\vector4\obj\Debug\net5.0\vector4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\vector4\vector4\obj\Debug\net5.0\vector4.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\vector4\vector4\obj\Debug\net5.0\vector4.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\vector4\vector4\obj\Debug\net5.0\vector4.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\vector4\vector4\obj\Debug\net5.0\vector4.dll
+C:\Users\Alejandro\source\repos\vector4\vector4\obj\Debug\net5.0\ref\vector4.dll
+C:\Users\Alejandro\source\repos\vector4\vector4\obj\Debug\net5.0\vector4.pdb
+C:\Users\Alejandro\source\repos\vector4\vector4\obj\Debug\net5.0\vector4.genruntimeconfig.cache

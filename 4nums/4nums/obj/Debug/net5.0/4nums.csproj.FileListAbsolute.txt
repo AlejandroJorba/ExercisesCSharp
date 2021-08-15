@@ -1,0 +1,15 @@
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\bin\Debug\net5.0\4nums.exe
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\bin\Debug\net5.0\4nums.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\bin\Debug\net5.0\4nums.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\bin\Debug\net5.0\4nums.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\bin\Debug\net5.0\4nums.dll
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\bin\Debug\net5.0\ref\4nums.dll
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\bin\Debug\net5.0\4nums.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\obj\Debug\net5.0\4nums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\obj\Debug\net5.0\4nums.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\obj\Debug\net5.0\4nums.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\obj\Debug\net5.0\4nums.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\obj\Debug\net5.0\4nums.dll
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\obj\Debug\net5.0\ref\4nums.dll
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\obj\Debug\net5.0\4nums.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\4nums\4nums\obj\Debug\net5.0\4nums.genruntimeconfig.cache

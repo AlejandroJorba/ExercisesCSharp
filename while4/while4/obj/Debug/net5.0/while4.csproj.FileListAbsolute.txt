@@ -1,0 +1,16 @@
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\bin\Debug\net5.0\while4.exe
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\bin\Debug\net5.0\while4.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\bin\Debug\net5.0\while4.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\bin\Debug\net5.0\while4.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\bin\Debug\net5.0\while4.dll
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\bin\Debug\net5.0\ref\while4.dll
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\bin\Debug\net5.0\while4.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\obj\Debug\net5.0\while4.csproj.AssemblyReference.cache
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\obj\Debug\net5.0\while4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\obj\Debug\net5.0\while4.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\obj\Debug\net5.0\while4.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\obj\Debug\net5.0\while4.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\obj\Debug\net5.0\while4.dll
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\obj\Debug\net5.0\ref\while4.dll
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\obj\Debug\net5.0\while4.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\while4\while4\obj\Debug\net5.0\while4.genruntimeconfig.cache

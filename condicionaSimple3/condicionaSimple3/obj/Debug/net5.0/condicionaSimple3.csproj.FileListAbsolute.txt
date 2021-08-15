@@ -1,0 +1,15 @@
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\bin\Debug\net5.0\condicionaSimple3.exe
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\bin\Debug\net5.0\condicionaSimple3.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\bin\Debug\net5.0\condicionaSimple3.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\bin\Debug\net5.0\condicionaSimple3.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\bin\Debug\net5.0\condicionaSimple3.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\bin\Debug\net5.0\ref\condicionaSimple3.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\bin\Debug\net5.0\condicionaSimple3.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\obj\Debug\net5.0\condicionaSimple3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\obj\Debug\net5.0\condicionaSimple3.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\obj\Debug\net5.0\condicionaSimple3.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\obj\Debug\net5.0\condicionaSimple3.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\obj\Debug\net5.0\condicionaSimple3.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\obj\Debug\net5.0\ref\condicionaSimple3.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\obj\Debug\net5.0\condicionaSimple3.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\condicionaSimple3\condicionaSimple3\obj\Debug\net5.0\condicionaSimple3.genruntimeconfig.cache

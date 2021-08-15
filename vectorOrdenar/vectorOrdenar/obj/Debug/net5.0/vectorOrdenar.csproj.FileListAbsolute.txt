@@ -1,0 +1,16 @@
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\bin\Debug\net5.0\vectorOrdenar.exe
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\bin\Debug\net5.0\vectorOrdenar.deps.json
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\bin\Debug\net5.0\vectorOrdenar.runtimeconfig.json
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\bin\Debug\net5.0\vectorOrdenar.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\bin\Debug\net5.0\vectorOrdenar.dll
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\bin\Debug\net5.0\ref\vectorOrdenar.dll
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\bin\Debug\net5.0\vectorOrdenar.pdb
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\obj\Debug\net5.0\vectorOrdenar.csproj.AssemblyReference.cache
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\obj\Debug\net5.0\vectorOrdenar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\obj\Debug\net5.0\vectorOrdenar.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\obj\Debug\net5.0\vectorOrdenar.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\obj\Debug\net5.0\vectorOrdenar.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\obj\Debug\net5.0\vectorOrdenar.dll
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\obj\Debug\net5.0\ref\vectorOrdenar.dll
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\obj\Debug\net5.0\vectorOrdenar.pdb
+C:\Users\Alejandro\source\repos\vectorOrdenar\vectorOrdenar\obj\Debug\net5.0\vectorOrdenar.genruntimeconfig.cache

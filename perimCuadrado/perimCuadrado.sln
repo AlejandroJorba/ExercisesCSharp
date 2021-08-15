@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "perimCuadrado", "perimCuadrado\perimCuadrado.csproj", "{261D321C-5E4A-4827-9DB1-2ADB76CBE627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261D321C-5E4A-4827-9DB1-2ADB76CBE627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261D321C-5E4A-4827-9DB1-2ADB76CBE627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261D321C-5E4A-4827-9DB1-2ADB76CBE627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261D321C-5E4A-4827-9DB1-2ADB76CBE627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6764437E-6072-4BF3-914E-977A4CE0E36F}
+	EndGlobalSection
+EndGlobal

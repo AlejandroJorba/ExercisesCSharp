@@ -1,0 +1,16 @@
+C:\Users\Alejandro\source\repos\array1\array1\obj\Debug\net5.0\array1.csproj.AssemblyReference.cache
+C:\Users\Alejandro\source\repos\array1\array1\obj\Debug\net5.0\array1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\array1\array1\obj\Debug\net5.0\array1.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\array1\array1\obj\Debug\net5.0\array1.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\array1\array1\obj\Debug\net5.0\array1.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\array1\array1\bin\Debug\net5.0\array1.exe
+C:\Users\Alejandro\source\repos\array1\array1\bin\Debug\net5.0\array1.deps.json
+C:\Users\Alejandro\source\repos\array1\array1\bin\Debug\net5.0\array1.runtimeconfig.json
+C:\Users\Alejandro\source\repos\array1\array1\bin\Debug\net5.0\array1.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\array1\array1\bin\Debug\net5.0\array1.dll
+C:\Users\Alejandro\source\repos\array1\array1\bin\Debug\net5.0\ref\array1.dll
+C:\Users\Alejandro\source\repos\array1\array1\bin\Debug\net5.0\array1.pdb
+C:\Users\Alejandro\source\repos\array1\array1\obj\Debug\net5.0\array1.dll
+C:\Users\Alejandro\source\repos\array1\array1\obj\Debug\net5.0\ref\array1.dll
+C:\Users\Alejandro\source\repos\array1\array1\obj\Debug\net5.0\array1.pdb
+C:\Users\Alejandro\source\repos\array1\array1\obj\Debug\net5.0\array1.genruntimeconfig.cache

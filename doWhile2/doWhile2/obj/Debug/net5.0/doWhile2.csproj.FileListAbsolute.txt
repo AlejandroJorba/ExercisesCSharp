@@ -1,0 +1,15 @@
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\bin\Debug\net5.0\doWhile2.exe
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\bin\Debug\net5.0\doWhile2.deps.json
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\bin\Debug\net5.0\doWhile2.runtimeconfig.json
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\bin\Debug\net5.0\doWhile2.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\bin\Debug\net5.0\doWhile2.dll
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\bin\Debug\net5.0\ref\doWhile2.dll
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\bin\Debug\net5.0\doWhile2.pdb
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\obj\Debug\net5.0\doWhile2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\obj\Debug\net5.0\doWhile2.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\obj\Debug\net5.0\doWhile2.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\obj\Debug\net5.0\doWhile2.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\obj\Debug\net5.0\doWhile2.dll
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\obj\Debug\net5.0\ref\doWhile2.dll
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\obj\Debug\net5.0\doWhile2.pdb
+C:\Users\Alejandro\source\repos\doWhile2\doWhile2\obj\Debug\net5.0\doWhile2.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\bin\Debug\net5.0\condicionalSimple1.exe
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\bin\Debug\net5.0\condicionalSimple1.deps.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\bin\Debug\net5.0\condicionalSimple1.runtimeconfig.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\bin\Debug\net5.0\condicionalSimple1.runtimeconfig.dev.json
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\bin\Debug\net5.0\condicionalSimple1.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\bin\Debug\net5.0\ref\condicionalSimple1.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\bin\Debug\net5.0\condicionalSimple1.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\obj\Debug\net5.0\condicionalSimple1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\obj\Debug\net5.0\condicionalSimple1.AssemblyInfoInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\obj\Debug\net5.0\condicionalSimple1.AssemblyInfo.cs
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\obj\Debug\net5.0\condicionalSimple1.csproj.CoreCompileInputs.cache
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\obj\Debug\net5.0\condicionalSimple1.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\obj\Debug\net5.0\ref\condicionalSimple1.dll
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\obj\Debug\net5.0\condicionalSimple1.pdb
+D:\Users\Alejandro\Desktop\C# Exercises\condicionalSimple1\condicionalSimple1\obj\Debug\net5.0\condicionalSimple1.genruntimeconfig.cache
